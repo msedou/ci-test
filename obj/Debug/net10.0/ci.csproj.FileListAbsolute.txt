@@ -1,0 +1,14 @@
+/Users/macbookpro/workflows/ci-cd/ci/bin/Debug/net10.0/ci
+/Users/macbookpro/workflows/ci-cd/ci/bin/Debug/net10.0/ci.deps.json
+/Users/macbookpro/workflows/ci-cd/ci/bin/Debug/net10.0/ci.runtimeconfig.json
+/Users/macbookpro/workflows/ci-cd/ci/bin/Debug/net10.0/ci.dll
+/Users/macbookpro/workflows/ci-cd/ci/bin/Debug/net10.0/ci.pdb
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.AssemblyInfoInputs.cache
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.AssemblyInfo.cs
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.csproj.CoreCompileInputs.cache
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.dll
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/refint/ci.dll
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.pdb
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ci.genruntimeconfig.cache
+/Users/macbookpro/workflows/ci-cd/ci/obj/Debug/net10.0/ref/ci.dll
